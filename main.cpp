@@ -9,10 +9,6 @@ int main()
     a = a + 3;
     std::cout << std::endl;
 
-    if (a==3) {
-      std::cout << " a = 3 " ;
-    }
-
     return 0;
 }
 END_OF_MAIN();
