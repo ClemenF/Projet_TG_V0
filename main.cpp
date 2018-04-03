@@ -3,8 +3,10 @@
 
 int main()
 {
-    std::cout << "-------------  Début du projet  -----------" << std::endl;
-
+    std::cout << "-------------  Dï¿½but du projet  -----------" << std::endl;
+    std::cout << " ---- test de modif ---- " << std::endl;
+    int a = 0;
+    
     return 0;
 }
 END_OF_MAIN();
