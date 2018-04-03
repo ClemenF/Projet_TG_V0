@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1522754282 source:d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\src\arete.cpp
+	"arete.h"
+
+1522754834 d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\include\arete.h
+	"../header.h"
+
+1522754268 source:d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\src\graphe.cpp
+	"Graphe.h"
+
+1522754834 d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\include\graphe.h
+	"../header.h"
+
+1522754291 source:d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\src\sommet.cpp
+	"sommet.h"
+
+1522754834 d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\include\sommet.h
+	"../header.h"
+
+1522754920 source:d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\main.cpp
+	"header.h"
+
+1522754920 d:\ece\ing2\informatique\01_ projet tg\projet_tg_v0\header.h
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	"allegro.h"
+	"arete.h"
+	"Graphe.h"
+	"sommet.h"
+
